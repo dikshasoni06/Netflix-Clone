@@ -1,2 +1,1 @@
-This project is a clone of the popular streaming platform Netflix. It aims to replicate the core features and user interface of Netflix.
-I made this project using html and css.
+Developed a Netflix clone website using HTML and CSS, replicating the user interface and design of the popular streaming platform. Implemented features such as responsive layout, navigation menu, content sections, and card-based design to mimic the look and feel of the original Netflix website. Incorporated modern web design techniques and styling to create a visually appealing and functional replica. 
